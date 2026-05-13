@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+requests
+matplotlib
+geopandas
+folium
+branca
+jinja2
+pydantic
+pandas
+numpy
+shapely
+pyproj
+Fiona
+leafmap
+geemap
+earthengine-api
